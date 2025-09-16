@@ -95,3 +95,9 @@ Three models were tested to predict employee turnover:
 <img width="1051" height="556" alt="Screenshot 2025-09-16 164024" src="https://github.com/user-attachments/assets/4e8b801b-9a7e-49d8-bd78-84a10f95c50d" />
 
 ---
+
+## Final Predictions
+
+<img width="684" height="751" alt="image" src="https://github.com/user-attachments/assets/cc7bbdda-a022-4e9d-9900-abfa59b06d9d" />
+
+---
